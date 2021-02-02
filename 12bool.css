@@ -34,7 +34,7 @@
 /* SMALL */
 @media screen and (max-width: 767px) {
     *{
-        background-color: rgba(0, 0, 255, 0.7);
+        background-color: rgba(0, 0, 255, 0.3);
     }
     .col-xs-1 {
         width: calc((100%/12)*1);
@@ -200,7 +200,7 @@
 /* LARGE */
 @media screen and (min-width: 992px){
     *{
-        background-color: rgba(255, 153, 0, 0.7);
+        background-color: rgba(255, 153, 0, 0.3);
     }
     .col-lg-1 {
         width: calc((100%/12)*1);
