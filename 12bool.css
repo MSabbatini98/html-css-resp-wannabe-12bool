@@ -19,7 +19,7 @@
     max-width: 1170px;
     margin: 0 auto;
 }
-.container::after{
+.clearfix::after{
     content: "";
     display: block;
     clear: both;
